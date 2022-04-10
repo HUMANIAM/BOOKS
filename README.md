@@ -16,7 +16,7 @@ I just publish them on github to share my notes and solutions with people who ma
 * [Effective modern c++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
 ### Design patterns
-* 
+* [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ### System design
 

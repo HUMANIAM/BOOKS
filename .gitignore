@@ -85,3 +85,4 @@ server/scripts/logs/
 
 # ignore books
 *.pdf
+bin

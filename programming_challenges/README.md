@@ -19,13 +19,13 @@ I read this book end to end and solved every single problem on it by passing [UV
 - Problems
     | Problem | Solution | 
     | ------ | ------ |
-    | 3n+1 | [getting_started/3n+1.cpp][3n+1] |
-    | Minesweeper | [getting_started/minesweeper.cpp][Minesweeper] |
-    | The trip | [getting_started/the_trip.cpp][The trip] |
-    | LCD Display | [getting_started/lcd_display.cpp][LCD Display] |
-    | Graphic editor | [getting_started/graphical_editor.cpp][Graphic editor] |
-    | Interpreter | [getting_started/interpreter.cpp][Interpreter] |
-    | Check the Check | [getting_started/check_the_check.cpp][Check the Check] |
-    | Australian voting | [getting_started/australian_voting.cpp][Australian voting] |
+    | 3n+1              | [3n+1](getting_started/3n+1.cpp) |
+    | Minesweeper       | [Minesweeper](getting_started/minesweeper.cpp) |
+    | The trip          | [The trip](getting_started/the_trip.cpp) |
+    | LCD Display       | [LCD Display](getting_started/lcd_display.cpp) |
+    | Graphic editor    | [Graphic editor](getting_started/graphical_editor.cpp) |
+    | Interpreter       | [Interpreter](getting_started/interpreter.cpp)|
+    | Check the Check   | [Check the Check](getting_started/check_the_check.cpp) |
+    | Australian voting | [Australian voting](getting_started/australian_voting.cpp) |
 
 - *Data Structures*

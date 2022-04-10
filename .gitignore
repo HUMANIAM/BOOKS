@@ -82,3 +82,6 @@ Build/
 
 server/scripts/sub/
 server/scripts/logs/
+
+# ignore books
+*.pdf
